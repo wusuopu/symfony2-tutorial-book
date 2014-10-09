@@ -1,0 +1,5 @@
+Symfony是一款功能强大的PHP框架，适用于开发大型复杂项目，自然学习成本也比较高。
+
+Symfony从JAVA和Rails中借鉴了许多内容，因此如果之前有接触过JAVA或者Rails的话再入门Symfony应该就不难。
+
+本篇教程通过制作一个简单的博客程序来介绍Symfony框架的用法。
