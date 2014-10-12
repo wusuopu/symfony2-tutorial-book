@@ -4,4 +4,5 @@
 * [第1章 创建项目](chapter01/README.md)
 * [第2章 创建应用](chapter02/README.md)
 * [第3章 创建页面](chapter03/README.md)
+* [第4章 表单验证](chapter04/README.md)
 
