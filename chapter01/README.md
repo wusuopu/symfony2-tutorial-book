@@ -18,7 +18,7 @@ $ [sudo] mv composer.phar /usr/local/bin
 Composer安装完成之后，即可通过如下命令创建一个新的Symfony2项目，然后根据提示进行配置。
 
 ```shell
-$ composer.phar create-project symfony/framework-standard-edition symfony_tutoriial 2.5.*
+$ composer.phar create-project symfony/framework-standard-edition symfony_tutorial 2.5.*
 Installing symfony/framework-standard-edition (v2.5.5)
   - Installing symfony/framework-standard-edition (v2.5.5)
     Downloading: 100%
